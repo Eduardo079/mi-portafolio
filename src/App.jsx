@@ -68,7 +68,7 @@ export default function App() {
         className="fixed top-0 left-0 right-0 z-50 bg-gray-900 bg-opacity-80 shadow-md px-6 py-4 flex justify-between items-center"
       >
         <div className="text-xl font-bold text-cyan-400 flex items-center gap-2">
-          <img src="/icon/apple-touch-icon.png" alt="Icono" className="w-6 h-6" />
+          <img src="/apple-touch-icon.png" alt="Icono" className="w-6 h-6" />
         </div>
 
         <div className="space-x-6 flex items-center text-white text-sm md:text-base">

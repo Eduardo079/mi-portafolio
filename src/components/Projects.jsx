@@ -41,7 +41,7 @@ export default function Projects() {
                             onClick={() => setShowImage(!showImage)}
                             className="bg-cyan-500 hover:bg-cyan-400 text-white font-bold py-2 px-4 rounded transition"
                         >
-                            {showImage ? "Ocultar arquitectura del sistema" : "Arquitectura del Proyecto"}
+                            {showImage ? "Ocultar Arquitectura" : "Arquitectura del Proyecto"}
                         </button>
 
                         <div className="flex flex-wrap gap-2">
