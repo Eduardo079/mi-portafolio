@@ -15,12 +15,13 @@ import firebase from "../assets/Firebase-Logo.png";
 import sql from "../assets/sql.png";
 import mysql from "../assets/mysql.png";
 import powerBI from "../assets/powerBI.png"
+import js from  "../assets/js.png"
 
 const technologies = [
     azureLogo, netCore, html, css,
     tailwindcss, LogoReact, Postman,
     git, github, firebase, sql, mysql,
-    powerBI
+    powerBI,js
 ];
 
 const containerVariants = {
