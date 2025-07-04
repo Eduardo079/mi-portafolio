@@ -31,8 +31,9 @@ export default function Projects() {
                         <li>Orquestación automatizada con Azure Data Factory</li>
                         <li>ETL desarrollado en notebooks de Databricks con PySpark</li>
                         <li>Transformación y limpieza de archivos con validación de calidad</li>
-                        <li>Persistencia de datos en PostgreSQL alojado en Azure</li>
+                        <li>Almacenamiento de datos en PostgreSQL alojado en Azure</li>
                         <li>Visualización de métricas clave con dashboards en Power BI</li>
+                        <li>Aplicación de metodologías ágiles (Scrum) en ciclos de desarrollo iterativos.</li>
                     </ul>
 
                     
